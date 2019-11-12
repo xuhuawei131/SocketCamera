@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:3:7-24
+		INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:6:5-43
+INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:6:5-43
+INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:6:5-43
+INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:6:5-43
+INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:6:5-43
+	android:targetSdkVersion
+		INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:6:5-43
+		INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:6:15-40
+		INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:9:2-63
+	android:name
+		ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:9:19-61
+uses-permission#android.permission.CAMERA
+ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:10:2-62
+	android:name
+		ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:10:19-59
+uses-feature#android.hardware.camera
+ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:12:5-95
+	android:required
+		ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:12:68-92
+	android:name
+		ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:12:19-67
+application
+ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:14:5-25:19
+	android:label
+		ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:14:48-80
+	android:icon
+		ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:14:18-47
+activity#com.xzy.SocketCameraActivity
+ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:label
+		ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:16:19-51
+	android:name
+		ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:15:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.xzy.SettingActivity
+ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:23:1-54
+	android:name
+		ADDED from G:\AndroidStudioProjects\SocketCamera\app\src\main\AndroidManifest.xml:23:11-42
